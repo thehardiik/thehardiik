@@ -1,6 +1,6 @@
 👋 Hii I am Hardik and I am currently learning Web Development
 
-Tech Stack :
+Tech Stack 
 
 💻 : Java , C
 
