@@ -2,7 +2,7 @@
 
 I work on cool ideas computer science and stuffs.
 
-## 🚀 What I'm up t
+## 🚀 What I'm up to
 - Reinventing the wheel,
 - Transforming the wheel,
 - Rolling wheels where they've never been.
