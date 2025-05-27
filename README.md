@@ -1,6 +1,6 @@
 ## Hardik here 👋
 
-I work on cool ideas computer science and stuffs.
+I work on cool ideas related to computer science and stuffs.
 
 ## 🚀 What I'm up to
 - Reinventing the wheel,
