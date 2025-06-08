@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 ## Hardik here 👋
 
 I work on cool ideas related to computer science and stuffs.
@@ -10,10 +12,20 @@ I work on cool ideas related to computer science and stuffs.
  
 
 ## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thehardiik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
-</div>
+<p align="center">
+  <a href="https://github.com/Shivrajsoni">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thehardiik&theme=aura"
+    />
+  <a href="https://github.com/Shivrajsoni">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thehardiik&theme=aura"
+    />
+</p>
+
+
 
 ---
 *Let's build something amazing together!*
