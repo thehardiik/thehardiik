@@ -13,12 +13,12 @@ I work on cool ideas related to computer science and stuffs.
 
 ## 📊 Stats
 <p align="center">
-  <a href="https://github.com/Shivrajsoni">
+  <a href="https://github.com/thehardiik">
     <img align="center"
          height="150em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thehardiik&theme=aura"
     />
-  <a href="https://github.com/Shivrajsoni">
+  <a href="https://github.com/thehardiik">
     <img align="center"
          height="150em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thehardiik&theme=aura"
